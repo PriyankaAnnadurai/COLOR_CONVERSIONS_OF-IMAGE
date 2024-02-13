@@ -48,7 +48,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-![WhatsApp Image 2024-02-13 at 09 52 21_679351ba](https://github.com/PriyankaAnnadurai/COLOR_CONVERSIONS_OF-IMAGE/assets/118351569/993037ac-626d-4672-8110-39129f14ad0f)
+![WhatsApp Image 2024-02-13 at 11 47 15_eededcc4](https://github.com/PriyankaAnnadurai/COLOR_CONVERSIONS_OF-IMAGE/assets/118351569/af624817-9d2e-49f0-97d7-dcec73373ba5)
 
   </td>
   </tr>
