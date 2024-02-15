@@ -5,7 +5,7 @@
 import cv2
 image=cv2.imread('city.jpg',1)
 image=cv2.resize(image,(200,325))
-cv2.imshow('Psv',image)
+cv2.imshow('PRIYANKA',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
